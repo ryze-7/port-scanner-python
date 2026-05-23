@@ -1,7 +1,7 @@
-# Port Scanner
+# Port Scanner 
 
 A Python-based port scanner similar to Nmap for network reconnaissance and service detection.
-
+![image](image.png)
 ## Features
 
 - [ ] Version Scan
